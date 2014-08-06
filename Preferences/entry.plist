@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = MediaSpeak7;
+	cell = PSLinkCell;
+	detail = MediaSpeak7ListController;
+	icon = MediaSpeak7.png;
+	isController = 1;
+	label = MediaSpeak7;
+    };
+}
